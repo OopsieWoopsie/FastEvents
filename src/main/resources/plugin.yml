@@ -1,0 +1,4 @@
+name: FastEvents
+main: me.sheidy.fastevents.FastEventsPlugin
+author: Sheidy
+version: ${project.version}
